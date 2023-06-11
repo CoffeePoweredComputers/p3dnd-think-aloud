@@ -1,4 +1,4 @@
-Post Test
+Practice Problems
 -----------------------------------------------------
 
 Please answer
@@ -9,26 +9,34 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. selectquestion:: p3dnd_upper_center_sq
-   :fromid: p3dnd_upper_center
+.. selectquestion:: p3dndta-front-back-nd-sq-1
+   :fromid: p3dndta-front-back-nd
    :points: 10
 
-.. selectquestion:: p3dnd_is_descending_ac_sq
-   :fromid: p3dnd_is_descending_ac
+.. selectquestion:: p3dndta-sum13-parsons-nd-sq-1
+   :fromid: p3dndta-sum13-nd
    :points: 10
 
-.. selectquestion:: p3dnd_sum67_fix_sq
-   :fromid: p3dnd_sum67_fix
+.. selectquestion:: p3dndta-two-two-nd-sq-1
+   :fromid: p3dndta-two-two-nd
    :points: 10
 
-.. selectquestion:: iwgex1-p3dnd-lst_two_loop_post
-   :fromid: p3dnd_lst_two_loop_post
+.. selectquestion:: p3dndta-bob-there-wd-sq-1
+   :fromid: p3dndta-bob-there-wd
+   :points: 10
+
+.. selectquestion:: p3dndta-two-sum-wd-sq-1
+   :fromid: p3dndta-two-sum-wd
+   :points: 10
+
+.. selectquestion:: p3dndta-palindrome-number-wd-sq-1
+   :fromid: p3dndta-palindrome-number-wd
    :points: 10
 
 Feedback
 ==================================
 
-.. shortanswer:: p3dnd-posttest-sa
+.. shortanswer:: p3dndta-wd-parsons-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 

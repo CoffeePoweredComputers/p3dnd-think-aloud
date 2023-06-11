@@ -9,7 +9,7 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. parsonsprob:: p3dnd-has22_nd
+.. parsonsprob:: p3dndta-has22_nd
        :adaptive:
        :numbered: left
 
@@ -17,7 +17,7 @@ Problems
        and returns ``True`` if there are at least two items in the list that are adjacent and both equal to ``2``, otherwise return ``False``. 
 
        .. table:: 
-          :name: p3dnd-has22_nd-table
+          :name: p3dndta-has22_nd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -44,7 +44,7 @@ Problems
        =====
            return False
 
-.. parsonsprob:: p3dnd-has22_wd
+.. parsonsprob:: p3dndta-has22_wd
        :adaptive:
        :numbered: left
 
@@ -52,7 +52,7 @@ Problems
        and returns ``True`` if there are at least two items in the list that are adjacent and both equal to ``2``, otherwise return ``False``. 
 
        .. table:: 
-          :name: p3dnd-has22-wd-table
+          :name: p3dndta-has22-wd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -83,7 +83,7 @@ Problems
        =====
            return False
 
-.. parsonsprob:: p3dnd-sum13-nd
+.. parsonsprob:: p3dndta-sum13-nd
    :adaptive:
    :numbered: left
 
@@ -93,7 +93,7 @@ Problems
    after a 13 to the sum.    Return ``0`` if ``nums`` is the empty list. 
    
     .. table:: 
-          :name: p3dnd-sum13-nd-table
+          :name: p3dndta-sum13-nd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -131,7 +131,7 @@ Problems
    =====
        return total
 
-.. parsonsprob:: p3dnd-sum13-wd
+.. parsonsprob:: p3dndta-sum13-wd
    :adaptive:
    :numbered: left
 
@@ -141,7 +141,7 @@ Problems
    after a 13 to the sum.    Return ``0`` if ``nums`` is the empty list. 
    
     .. table:: 
-          :name: p3dnd-sum13-wd-table
+          :name: p3dndta-sum13-wd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -186,7 +186,7 @@ Problems
    =====
        return Total #paired: Case matters and Total is not defined
 
-.. parsonsprob:: p3dnd-front-back-nd
+.. parsonsprob:: p3dndta-front-back-nd
    :numbered: left
    :adaptive:
 
@@ -199,7 +199,7 @@ Problems
    * Otherwise return ``"n"``.
   
    .. table:: 
-      :name: p3dnd-front-back-nd-table
+      :name: p3dndta-front-back-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -236,7 +236,7 @@ Problems
    =====
        return "n"
 
-.. parsonsprob:: p3dnd-front-back-wd
+.. parsonsprob:: p3dndta-front-back-wd
    :numbered: left
    :adaptive:
 
@@ -249,7 +249,7 @@ Problems
    * Otherwise return ``"n"``.
   
    .. table:: 
-      :name: p3dnd-front-back-wd-table
+      :name: p3dndta-front-back-wd-table
       :widths: 70 30
       :class: longtable
       :align: left
@@ -294,7 +294,7 @@ Problems
        return "n"
 
 
-.. parsonsprob:: p3dnd-in-back-nd
+.. parsonsprob:: p3dndta-in-back-nd
    :numbered: left
    :adaptive:
 
@@ -307,7 +307,7 @@ Problems
    * Otherwise return ``"n"``.
 
    .. table:: 
-      :name: p3dnd-in-back-nd
+      :name: p3dndta-in-back-nd
       :widths: 70 30
       :class: longtable
       :align: left
@@ -345,7 +345,7 @@ Problems
    =====
        return "n"
 
-.. parsonsprob:: p3dnd-in-back-wd
+.. parsonsprob:: p3dndta-in-back-wd
    :numbered: left
    :adaptive:
 
@@ -358,7 +358,7 @@ Problems
    * Otherwise return ``"n"``.
 
    .. table:: 
-      :name: p3dnd-in-back-wd
+      :name: p3dndta-in-back-wd
       :widths: 70 30
       :class: longtable
       :align: left
@@ -404,7 +404,7 @@ Problems
        return "n"
 
 
-.. parsonsprob:: p3dnd-three-four-wd
+.. parsonsprob:: p3dndta-three-four-wd
    :numbered: left
    :adaptive:
 
@@ -417,7 +417,7 @@ Problems
    * replace numbers that are multiples of both three and four with ``"three_four"``.
 
    .. table:: 
-      :name: p3dnd-three-four-wd-table
+      :name: p3dndta-three-four-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -460,7 +460,7 @@ Problems
    =====
            return out
 
-.. parsonsprob:: p3dnd-three-four-nd
+.. parsonsprob:: p3dndta-three-four-nd
    :numbered: left
    :adaptive:
 
@@ -473,7 +473,7 @@ Problems
    * replace numbers that are multiples of both three and four with ``"three_four"``.
 
    .. table:: 
-      :name: p3dnd-three-four-nd-table
+      :name: p3dndta-three-four-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -513,7 +513,7 @@ Problems
    =====
            return out
 
-.. parsonsprob:: p3dnd-is-level-nd
+.. parsonsprob:: p3dndta-is-level-nd
    :numbered: left
    :adaptive:
 
@@ -523,7 +523,7 @@ Problems
    * Otherwise it should return ``True``
 
    .. table:: 
-      :name: p3dnd-is-level-nd-table
+      :name: p3dndta-is-level-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -553,7 +553,7 @@ Problems
    =====
        return True
 
-.. parsonsprob:: p3dnd-is-level-wd
+.. parsonsprob:: p3dndta-is-level-wd
    :numbered: left
    :adaptive:
 
@@ -563,7 +563,7 @@ Problems
    * Otherwise it should return ``True``
 
    .. table:: 
-      :name: p3dnd-is-level-wd-table
+      :name: p3dndta-is-level-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -597,7 +597,7 @@ Problems
    =====
        return True
 
-.. parsonsprob:: p3dnd-total-eight-nine-nd
+.. parsonsprob:: p3dndta-total-eight-nine-nd
    :numbered: left
    :adaptive:
 
@@ -606,7 +606,7 @@ Problems
    between an 8 and a 9 (inclusive). 
 
    .. table:: 
-      :name: p3dnd-total-eight-nine-nd-table
+      :name: p3dndta-total-eight-nine-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -644,7 +644,7 @@ Problems
    =====
        return sum
 
-.. parsonsprob:: p3dnd-total-eight-nine-wd
+.. parsonsprob:: p3dndta-total-eight-nine-wd
    :numbered: left
    :adaptive:
 
@@ -653,7 +653,7 @@ Problems
    between an 8 and a 9 (inclusive). 
 
    .. table:: 
-      :name: p3dnd-total-eight-nine-wd-table
+      :name: p3dndta-total-eight-nine-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -695,7 +695,7 @@ Problems
    =====
        return sum
 
-.. parsonsprob:: p3dnd-sum-digits-nd
+.. parsonsprob:: p3dndta-sum-digits-nd
    :numbered: left
    :adaptive:
 
@@ -705,7 +705,7 @@ Problems
    * return 0 if there are no digits in the string.
 
    .. table:: 
-      :name: p3dnd-sum-digits-nd-table
+      :name: p3dndta-sum-digits-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -735,7 +735,7 @@ Problems
       return total
    
 
-.. parsonsprob:: p3dnd-sum-digits-wd
+.. parsonsprob:: p3dndta-sum-digits-wd
    :numbered: left
    :adaptive:
  
@@ -745,7 +745,7 @@ Problems
    * return 0 if there are no digits in the string.
 
    .. table:: 
-      :name: p3dnd-sum-digits-wd-table
+      :name: p3dndta-sum-digits-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -778,7 +778,7 @@ Problems
    =====
       print(total) #paired: need to return not print
 
-.. parsonsprob:: p3dnd-max-block-nd
+.. parsonsprob:: p3dndta-max-block-nd
    :numbered: left
    :adaptive:
 
@@ -787,7 +787,7 @@ Problems
    block is a run of adjacent chars that are the same.
 
    .. table:: 
-      :name: p3dnd-max-block-nd-table
+      :name: p3dndta-max-block-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -826,7 +826,7 @@ Problems
    =====
        return max
 
-.. parsonsprob:: p3dnd-max-block-wd
+.. parsonsprob:: p3dndta-max-block-wd
    :numbered: left
    :adaptive:
 
@@ -835,7 +835,7 @@ Problems
    block is a run of adjacent chars that are the same.
 
    .. table:: 
-      :name: p3dnd-max-block-wd-table
+      :name: p3dndta-max-block-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -880,7 +880,7 @@ Problems
    =====
        return max
 
-.. parsonsprob:: p3dnd-zero-front-nd
+.. parsonsprob:: p3dndta-zero-front-nd
    :numbered: left
    :adaptive:
 
@@ -889,7 +889,7 @@ Problems
    rearranged so that all of the zeros are grouped at the start of the list. 
 
    .. table:: 
-      :name: p3dnd-zero-front-nd-table
+      :name: p3dndta-zero-front-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -922,7 +922,7 @@ Problems
    =====
        return nums
           
-.. parsonsprob:: p3dnd-zero-front-wd
+.. parsonsprob:: p3dndta-zero-front-wd
    :numbered: left
    :adaptive:
 
@@ -931,7 +931,7 @@ Problems
    rearranged so that all of the zeros are grouped at the start of the list. 
 
    .. table:: 
-      :name: p3dnd-zero-front-wd-table
+      :name: p3dndta-zero-front-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -971,7 +971,7 @@ Problems
        return nums
 
 
-.. parsonsprob:: p3dnd-two-two-nd
+.. parsonsprob:: p3dndta-two-two-nd
    :numbered: left
    :adaptive:
 
@@ -980,7 +980,7 @@ Problems
    next to another 2. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-two-two-nd-table
+      :name: p3dndta-two-two-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1015,7 +1015,7 @@ Problems
    =====
      return True
 
-.. parsonsprob:: p3dnd-two-two-wd
+.. parsonsprob:: p3dndta-two-two-wd
    :numbered: left
    :adaptive:
 
@@ -1024,7 +1024,7 @@ Problems
    next to another 2. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-two-two-wd-table
+      :name: p3dndta-two-two-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1068,7 +1068,7 @@ Problems
      return True
 
 
-.. parsonsprob:: p3dnd-bob-there-nd
+.. parsonsprob:: p3dndta-bob-there-nd
    :numbered: left
    :adaptive:
 
@@ -1077,7 +1077,7 @@ Problems
    middle 'o' char can be any char. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-bob-there-nd-table
+      :name: p3dndta-bob-there-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1102,7 +1102,7 @@ Problems
    =====
        return False
 
-.. parsonsprob:: p3dnd-bob-there-wd
+.. parsonsprob:: p3dndta-bob-there-wd
    :numbered: left
    :adaptive:
 
@@ -1111,7 +1111,7 @@ Problems
    middle 'o' char can be any char. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-bob-there-wd-table
+      :name: p3dndta-bob-there-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1140,7 +1140,7 @@ Problems
    =====
        return False
 
-.. parsonsprob:: p3dnd-two-sum-nd
+.. parsonsprob:: p3dndta-two-sum-nd
    :numbered: left
    :adaptive:
 
@@ -1151,7 +1151,7 @@ Problems
    solution, and you may not use the same element twice.
 
    .. table:: 
-      :name: p3dnd-two-sum-nd-table
+      :name: p3dndta-two-sum-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1179,7 +1179,7 @@ Problems
       return []
 
 
-.. parsonsprob:: p3dnd-two-sum-wd
+.. parsonsprob:: p3dndta-two-sum-wd
    :numbered: left
    :adaptive:
 
@@ -1190,7 +1190,7 @@ Problems
    solution, and you may not use the same element twice.
 
    .. table:: 
-      :name: p3dnd-two-sum-wd-table
+      :name: p3dndta-two-sum-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1221,7 +1221,7 @@ Problems
    =====
       return []
 
-.. parsonsprob:: p3dnd-palindrome-number-nd
+.. parsonsprob:: p3dndta-palindrome-number-nd
    :numbered: left
    :adaptive:
 
@@ -1230,7 +1230,7 @@ Problems
    if the digits read the same backwards as forwards.
 
    .. table:: 
-      :name: p3dnd-palindrome-number-nd-table
+      :name: p3dndta-palindrome-number-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -1262,7 +1262,7 @@ Problems
    =====
       return True
 
-.. parsonsprob:: p3dnd-palindrome-number-wd
+.. parsonsprob:: p3dndta-palindrome-number-wd
    :numbered: left
    :adaptive:
 
@@ -1271,7 +1271,7 @@ Problems
    if the digits read the same backwards as forwards.
 
    .. table:: 
-      :name: p3dnd-palindrome-number-wd-table
+      :name: p3dndta-palindrome-number-wd-table
       :class: longtable
       :align: left
       :width: 80%
