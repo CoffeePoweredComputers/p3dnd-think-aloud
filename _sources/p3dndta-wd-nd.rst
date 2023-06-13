@@ -13,20 +13,20 @@ Problems
    :fromid: p3dndta-front-back-wd
    :points: 10
 
-.. selectquestion:: p3dndta-sum13-parsons-wd-sq-1
-   :fromid: p3dndta-sum13-wd
-   :points: 10
-
-.. selectquestion:: p3dndta-two-two-wd-sq-1
-   :fromid: p3dndta-two-two-wd
-   :points: 10
-
 .. selectquestion:: p3dndta-bob-there-nd-sq-1
    :fromid: p3dndta-bob-there-nd
    :points: 10
 
+.. selectquestion:: p3dndta-sum13-parsons-wd-sq-1
+   :fromid: p3dndta-sum13-wd
+   :points: 10
+
 .. selectquestion:: p3dndta-two-sum-nd-sq-1
    :fromid: p3dndta-two-sum-nd
+   :points: 10
+
+.. selectquestion:: p3dndta-two-two-wd-sq-1
+   :fromid: p3dndta-two-two-wd
    :points: 10
 
 .. selectquestion:: p3dndta-palindrome-number-nd-sq-1
@@ -40,6 +40,21 @@ Feedback
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
-Thank You
+What to do next
 ============================
-Thank you for taking part in this study!  We appreciate your time on this.
+.. raw:: html
+
+    <p>Click on the following link to take the pre survey : <b><a id="p3dndta-postsurvey"> <font size="+2">Post Survey</font></a></b></p>
+
+.. raw:: html
+
+    <script type="text/javascript" >
+
+      window.onload = function() {
+
+        a = document.getElementById("p3dndta-postsurvey")
+        a.href = "p3dndta-postsurvey.html"
+      };
+
+    </script>
+

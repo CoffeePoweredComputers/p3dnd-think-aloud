@@ -38,7 +38,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to take the pre survey : <b><a id="p3dndta-intro"> <font size="+2">Pre Survey</font></a></b></p>
+    <p>Click on the following link to do an introduction to Parsons Problems: <b><a id="p3dndta-intro"> <font size="+2">Introduction</font></a></b></p>
 
 .. raw:: html
 
