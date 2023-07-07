@@ -19,7 +19,7 @@ Study Information
 Thank you for taking part in this study! We are researchers who are trying
 to improve the teaching and learning of programming.
 
-This study has three parts.  It will take approximately 30 minutes to complete
+This study has four parts.  It will take approximately 60 minutes to complete
 the study.  Please do the parts in order and answer questions to the best
 of your ability without any outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
@@ -28,6 +28,7 @@ If you have questions about this study please email Dr. Barbara Ericson at barba
 
 The three parts are:
 
+- Pre Survey - Questions about your experience and confidence in computing
 - Introduction - Materials to get you familiar with the types of problems in this study
 - Practice - Practice problems
 - Post Test - Post test problems
@@ -38,7 +39,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to do an introduction to Parsons Problems: <b><a id="p3dndta-intro"> <font size="+2">Introduction</font></a></b></p>
+    <p>Click on the following link to answer the presurvey: <b><a id="p3dndta-presurvey"> <font size="+2">Presurvey</font></a></b></p>
 
 .. raw:: html
 
@@ -46,8 +47,8 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("p3dndta-intro")
-        a.href = "p3dndta-intro.html"
+        a = document.getElementById("p3dndta-presurvey")
+        a.href = "p3dndta-presurvey.html"
       };
 
     </script>
