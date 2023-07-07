@@ -26,7 +26,7 @@ on it for about five minutes without solving it.
 
 If you have questions about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
 
-The three parts are:
+The four parts are:
 
 - Pre Survey - Questions about your experience and confidence in computing
 - Introduction - Materials to get you familiar with the types of problems in this study
